@@ -70,15 +70,6 @@ A machine learning project that predicts student placement outcomes using multip
 
 ---
 
-### ⚙️ RUNFOLD 2.0
-
-An advanced version of my e-commerce project focused on **event-driven commerce, inventory reservation, and backend architecture**.
-
-**Focus:** `React` `Node.js` `Express.js` `MongoDB` `Event-Driven Architecture`
-
-> 🚧 Currently learning and developing
-
----
 
 ## 📊 GitHub Stats
 
@@ -90,13 +81,6 @@ An advanced version of my e-commerce project focused on **event-driven commerce,
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-</div>
 
 ---
 
