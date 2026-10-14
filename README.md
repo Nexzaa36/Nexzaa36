@@ -87,15 +87,9 @@ A machine learning project that predicts student placement outcomes using multip
 ## 🎯 Currently Learning
 
 ```text
-JavaScript
+Microservices /RABBIT MQ
    ↓
-Node.js
-   ↓
-Express.js
-   ↓
-REST APIs
-   ↓
-MongoDB / PostgreSQL
+CLOUD AMQP
    ↓
 Full-Stack Development
 ```
