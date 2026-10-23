@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Joshi
 
-### BCA Student | Full-Stack Developer | Data Analyst
+### BCA Student | Full-Stack Developer | Flutter Dev
 
 I’m a BCA student passionate about building **web applications, backend systems, and practical software projects**.
 I enjoy learning new technologies, turning ideas into working projects, and continuously improving my development skills.
